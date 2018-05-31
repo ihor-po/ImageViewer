@@ -1,0 +1,16 @@
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\MainWindow.g.cs
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\App.g.cs
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.cache
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.lref
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\MainWindow.baml
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.g.resources
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
+\\Mac\iCloud\Step\WPF\DZ\ImageViewer\ImageViewer\obj\Debug\IV_style.baml
