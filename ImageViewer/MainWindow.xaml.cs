@@ -11,7 +11,8 @@ namespace ImageViewer
         public MainWindow()
         {
             InitializeComponent();
-            this.DataContext = new MW_ViewModel();
+            this.DataContext = new MW_ViewModel();           
         }
+      
     }
 }

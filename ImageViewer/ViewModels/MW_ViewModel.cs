@@ -37,7 +37,7 @@ namespace ImageViewer.ViewModels
                     obj =>
                     {
                         OpenFileDialog fd = new OpenFileDialog();
-                        fd.Filter = "image png (*.png)|*.png|image jpg (*.jpg)|*.jpg|All files (*.*)|*.*";
+                        fd.Filter = "image jpg (*.jpg)|*.jpg|image png (*.png)|*.png|All files (*.*)|*.*";
                         fd.FilterIndex = 1;
                         fd.Multiselect = true;
                         fd.RestoreDirectory = true;
